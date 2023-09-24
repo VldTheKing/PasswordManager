@@ -1,8 +1,10 @@
 # PasswordManager
 
+
 Description:
 
 The Password Manager App is a Python application designed to securely store and manage passwords for various websites and select email accounts. It provides a convenient way to generate strong, unique passwords and store them in an encrypted format, enhancing security while simplifying password management.
+
 
 Features:
 
@@ -12,6 +14,7 @@ Password Generation: Users can generate strong and unique passwords for their ac
 
 Search Functionality: Users can quickly search for stored passwords based on website names or email addresses.
 
+
 Dependencies:
 
 Python 3.11
@@ -19,6 +22,7 @@ Python 3.11
 Encryption library
 
 GUI library (e.g., Tkinter)
+
 
 Usage:
 
@@ -32,13 +36,13 @@ Navigate to the project directory.
 
 Run the Password Manager App.
 
-Create a master password to encrypt and protect your stored passwords.
-
 Add new passwords or generate strong passwords for websites and emails using the app's interface.
+
 
 Author:
 
 Vlad Chiorescu
+
 
 Preview:
 
